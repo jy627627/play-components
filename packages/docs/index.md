@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Toy-element"
+  name: "Play-component"
   text: "-"
   tagline: My great project tagline
   actions:
